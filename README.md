@@ -17,9 +17,7 @@ A full-stack web platform connecting university students to trade skills, offer 
 ## 🛠️ Tech Stack & Architecture
 
 * **Frontend**: HTML5, CSS3, JavaScript (ES6+), Bootstrap 5 (Responsive UI & Components)
-* **Backend**: ASP.NET Core / C# / Web API
-* **Database**: Microsoft SQL Server (T-SQL) with relational table links and identity primary keys
-* **Version Control**: Git & GitHub
+* 
 
 ---
 
