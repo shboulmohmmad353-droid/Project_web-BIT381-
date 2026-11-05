@@ -16,7 +16,7 @@ A full-stack web platform connecting university students to trade skills, offer 
 
 ## 🛠️ Tech Stack & Architecture
 
-* **Frontend**: HTML5, CSS3, JavaScript (ES6+), Bootstrap 5 (Responsive UI & Components)
+* **Frontend**: HTML5, CSS3, JavaScript (ES6+)
   
 
 ---
